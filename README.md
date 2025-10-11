@@ -1,5 +1,12 @@
 ## Hi there 👋
 
-
-<video src="https://github.com/user-attachments/assets/34a6df25-eea6-426e-aab3-558d95305377" controls="controls" width="300"></video>
-
+<p align="center">
+  <video 
+    src="https://github.com/Piyush22070/Piyush22070/raw/main/1760189027729913.mp4" 
+    width="600" 
+    autoplay 
+    loop 
+    muted 
+    playsinline>
+  </video>
+</p>

@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-https://github.com/user-attachments/assets/99013ec0-ad8b-4e0a-b0b8-d24008450cdc
+![1768115263958222-ezgif com-optimize](https://github.com/user-attachments/assets/cf7ad535-58b9-4798-926e-6b49b01eea4f)
+
 
